@@ -1,0 +1,199 @@
+{
+    "currentLevel": 4,
+    "currentExp": 700,
+    "goldNum": 7700,
+    "crystalNum": 1800,
+    "characterJsonDataList": [
+        {
+            "id": 0,
+            "level": 3,
+            "currentExp": 300,
+            "capLevel": 2,
+            "armorLevel": 2,
+            "skillUnLock": [
+                true,
+                true
+            ]
+        },
+        {
+            "id": 2,
+            "level": 3,
+            "currentExp": 300,
+            "capLevel": 2,
+            "armorLevel": 2,
+            "skillUnLock": [
+                true,
+                true
+            ]
+        },
+        {
+            "id": 1,
+            "level": 3,
+            "currentExp": 300,
+            "capLevel": 2,
+            "armorLevel": 2,
+            "skillUnLock": [
+                true,
+                true
+            ]
+        }
+    ],
+    "equipJsonDataList": [
+        {
+            "id": 6,
+            "level": 1,
+            "ownerId": 2,
+            "count": 1
+        },
+        {
+            "id": 7,
+            "level": 1,
+            "ownerId": 1,
+            "count": 1
+        },
+        {
+            "id": 8,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 7,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 8,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 9,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 7,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 8,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 9,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 7,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 8,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 9,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 7,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 8,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 9,
+            "level": 1,
+            "ownerId": 0,
+            "count": 1
+        },
+        {
+            "id": 8,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 7,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 8,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 9,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        },
+        {
+            "id": 6,
+            "level": 1,
+            "ownerId": -1,
+            "count": 1
+        }
+    ],
+    "materialJsonDataList": [
+        {
+            "id": 10,
+            "level": 1,
+            "ownerId": -1,
+            "count": 44
+        },
+        {
+            "id": 11,
+            "level": 1,
+            "ownerId": -1,
+            "count": 43
+        },
+        {
+            "id": 12,
+            "level": 1,
+            "ownerId": -1,
+            "count": 25
+        }
+    ],
+    "levelJsonDataList": [
+        {
+            "id": 0,
+            "isLock": false,
+            "startNum": 3
+        },
+        {
+            "id": 1,
+            "isLock": false,
+            "startNum": 2
+        }
+    ],
+    "getStarAward": [
+        true,
+        false
+    ]
+}

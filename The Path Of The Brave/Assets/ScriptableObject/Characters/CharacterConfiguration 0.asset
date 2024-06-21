@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4c6d79336bf75645bf55f98d8ffac91, type: 3}
+  m_Name: CharacterConfiguration 0
+  m_EditorClassIdentifier: 
+  configData:
+    id: 0
+    name: "\u963F\u826F"
+    sprite: {fileID: 21300000, guid: bb09c0d966b93504fb473fa79f84b274, type: 3}
+    pfCharacter: {fileID: 1160890946998702048, guid: a046eaf044a26084dba2e36ee894ba3b,
+      type: 3}
+    addHp: 20
+    addDef: 10
+    addAtk: 10
+    cap: {fileID: 11400000, guid: 6d374594395f3bb4795bff0e5e1f7a87, type: 2}
+    armor: {fileID: 11400000, guid: 2243a227ade2c904e9cc1818a8d22643, type: 2}
+    baseHp: 200
+    baseDef: 50
+    baseAtk: 50
+    moveRange: 3
+    minAtkRange: 1
+    maxAtkRange: 1
+    canSwim: 0
+    skillSoList:
+    - {fileID: 11400000, guid: 87ccde70eb2a14c4a8cc5801ccaac530, type: 2}
+    - {fileID: 11400000, guid: 9859104494c03fe4d8bafc5a58e87bdb, type: 2}

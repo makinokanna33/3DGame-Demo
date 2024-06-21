@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7fcd5b150824c84b8068d6978ce558d, type: 3}
+  m_Name: ItemBaseConfiguration 9
+  m_EditorClassIdentifier: 
+  itemConfigData:
+    id: 9
+    itemName: "\u592A\u6781\u4F69\u73AF"
+    icon: {fileID: 1261234699836740476, guid: f1e35a5219912524ca094fad7a5a37a7, type: 3}
+    isStackUp: 0
+    description: "\u4F60\u751A\u81F3\u4E0D\u80FD\u64E6\u4F24\u6211\uFF01"
+    sellPrice: 500
+    tabType: 0
+    hpUp: 0
+    hpAdd: 0
+    atkUp: 0
+    atkAdd: 0
+    defUp: 20
+    defAdd: 0

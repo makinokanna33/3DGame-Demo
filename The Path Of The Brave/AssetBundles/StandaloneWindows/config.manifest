@@ -1,0 +1,129 @@
+ManifestFileVersion: 0
+CRC: 385257989
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db20b6b193cc98c3fa6e29e358dec150
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 411cff238cf91bc6009d425c16121c7b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7fcd5b150824c84b8068d6978ce558d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddeb2793281e07d43af855d2ee634107, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4c6d79336bf75645bf55f98d8ffac91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da0190c30dccc9f438d1840ab7722a69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a7ab5e387d576e46a25a39559b888dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f26cb204a309b4b49942e366503e1ce7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 91ab5f74f6ee2dc4289a3b629f01af12, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f81153c505f37a543a87749e38b87182, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d18a46ab7a176c448917a64dcaadb235, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1be212ec47d4c9f4e94d33ae16e0e3cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 362073bec41aa2a49be576a15d54df8e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b2dda5fc045dda488b76debee2621f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 652e19bf8d34d68448aef5e3012c626b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d490b7481d29c8429b3b791f62f3ff4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc98f28cc779e294fa5d9e33c2108a0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 064ad80cde8edc2478a468f5bcbc37c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa07006f64294964b84f79497751e149, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7655dbdbae96492abedad7bdc555301d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2cfe3e6f36484a49b6292e8d0b75f6c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6dbda98e8614ec8a935809c1a0ace8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7ecc3883ea55a046b88905b4d2f6201, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fa9c955512fc63459f2346430d32bc6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39d97a8c271bbc34ca07bf6a50d97359, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80cd3cad3afd43079abde900b17b49f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 308e5f7d72024f46adc459671360c892, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 618b150481b84b219194d8fb83ab0335, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6dbb11e656d848fa881a9e7cf8569a3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adc35d2c3f214deabf31612e6ba65333, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a11e23905d7646399f271b83eb64c834, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61c73ed9ceb743108dc36b78b784d1c9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 331
+  Script: {instanceID: 0}
+Assets:
+- Assets/ABRes/Configuration/LevelConfiguration.asset
+- Assets/ABRes/Configuration/CharactersConfiguration.asset
+- Assets/ABRes/Prefabs/ABRes/Configuration/ViewConfiguration.xml
+- Assets/ABRes/Configuration/ShopBuyConfiguration.asset
+- Assets/ABRes/Configuration/SkillsConfiguration.asset
+- Assets/ABRes/Prefabs/ABRes/Configuration/ItemConfiguration.asset
+- Assets/ABRes/Configuration/StarAwardsConfiguration.asset
+- Assets/ABRes/Prefabs/ABRes/Configuration/HeroConfiguration.asset
+- Assets/ABRes/Configuration/ItemsBaseConfiguration.asset
+- Assets/ABRes/Configuration/ViewConfiguration.xml
+- Assets/ABRes/Prefabs/ABRes/Configuration/EnemiesConfiguration.asset
+- Assets/ABRes/Configuration/SelectLevelsConfiguration.asset
+Dependencies: []

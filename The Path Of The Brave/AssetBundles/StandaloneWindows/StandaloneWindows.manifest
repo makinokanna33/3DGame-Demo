@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3403713364
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uipanel
+      Dependencies:
+        Dependency_0: prefabs
+    Info_1:
+      Name: prefabs
+      Dependencies: {}
+    Info_2:
+      Name: config
+      Dependencies: {}
+    Info_3:
+      Name: ui
+      Dependencies: {}

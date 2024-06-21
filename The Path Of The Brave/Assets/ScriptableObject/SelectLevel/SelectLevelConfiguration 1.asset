@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f81153c505f37a543a87749e38b87182, type: 3}
+  m_Name: SelectLevelConfiguration 1
+  m_EditorClassIdentifier: 
+  configData:
+    id: 1
+    levelName: "\u65E0\u5C3D\u5E73\u539F"
+    icon: {fileID: 21300000, guid: f6cd74a84731c48628004ab66306a4df, type: 3}
+    description: "\u4EFF\u4F5B\u8D70\u4E0D\u5230\u5C3D\u5934\u7684\u5E73\u539F\uFF0C\u8FD9\u91CC\u5C06\u662F\u4F60\u4EEC\u7684\u6700\u7EC8\u6311\u6218\uFF0C\u4E0A\u5427\uFF0C\u52C7\u58EB\u4EEC\uFF01"
+    playerAddExp: 400
+    characterAddExp: 200
+    addGoldNum: 1000
+    trophyItem:
+    - {fileID: 11400000, guid: f8a3dd9eb56701e4f942352bd9d81af4, type: 2}
+    - {fileID: 11400000, guid: 3c4e14df96ecc414d8477e6f27a68e30, type: 2}
+    - {fileID: 11400000, guid: dac9175177827b749a74d11f8c1d89b6, type: 2}
+    - {fileID: 11400000, guid: 6a84c8294a58866498b194e6567db2cd, type: 2}
+    trophyNum: 01000000010000000500000005000000
+    challengeId: 0000000001000000
+    challengeInfo:
+    - "7\u56DE\u5408\u5185\u7ED3\u675F\u6218\u6597"
+    - "\u6211\u65B9\u65E0\u4EBA\u9635\u4EA1"

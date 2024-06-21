@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2283732013
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6521af6411288c7ea751d3ecf5980fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/ABRes/Prefabs/ABRes/SpriteAtlas/ItemIcon.spriteatlas
+Dependencies: []

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f26cb204a309b4b49942e366503e1ce7, type: 3}
+  m_Name: StarAwardConfiguration 1
+  m_EditorClassIdentifier: 
+  configData:
+    id: 1
+    playerAddExp: 600
+    characterAddExp: 400
+    addGoldNum: 1500
+    trophyItem:
+    - {fileID: 11400000, guid: 3c4e14df96ecc414d8477e6f27a68e30, type: 2}
+    - {fileID: 11400000, guid: dac9175177827b749a74d11f8c1d89b6, type: 2}
+    - {fileID: 11400000, guid: 6a84c8294a58866498b194e6567db2cd, type: 2}
+    trophyNum: 020000000a0000000a000000

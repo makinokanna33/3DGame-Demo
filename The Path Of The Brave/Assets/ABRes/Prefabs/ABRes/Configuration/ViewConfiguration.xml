@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewConfiguration>
+	<View viewName = "V_StartView" mediatorName = "StartViewMediator"/>
+	<View viewName = "V_MainView" mediatorName = "MainViewMediator"/>
+	<View viewName = "V_InventoryView" mediatorName = "InventoryViewMediator"/>
+	<View viewName = "V_ToolTipView" mediatorName = "ToolTipViewMediator"/>
+	<View viewName = "V_ThrowItemView" mediatorName = "ThrowItemViewMediator"/>
+	<View viewName = "V_DelItemTipView" mediatorName = "DelItemTipViewMediator"/>
+	<View viewName = "V_PropertyView" mediatorName = "PropertyViewMediator"/>
+	<View viewName = "V_BattleView" mediatorName = "BattleViewMediator"/>
+	<View viewName = "V_MapView" mediatorName = "MapViewMediator"/>
+</ViewConfiguration>

@@ -1,0 +1,163 @@
+ManifestFileVersion: 0
+CRC: 2537987731
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b381118e1c7852b045a23ca6496dc5ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e4da70d68c450ddca7d31a63d0b0bae6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ac4b141555f99342acc39e3c71655a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7fcd5b150824c84b8068d6978ce558d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 202835d117b2e714dad18264a7de913e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6bce1b22cac372a4c98e4514906b2c15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15b94b52e24d56e468e4e6f4f76e9f79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1435fc03dba364c4f944ae99759f4d7d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 62aa9433fd1b0694caa4a67d2e7af412, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4c6d79336bf75645bf55f98d8ffac91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 93680024d6592054f9fc4afb68355695, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 91ab5f74f6ee2dc4289a3b629f01af12, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86b08cf4bc19cfe4d909b2a571259ba9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c45454598f951843882a7fd1569081a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a1f934645082904abae3dc56452debe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b2bf80c691751a240b47e48347864d69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bb66317c8dd1b54bbe780877c12f5ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 401267776d6327b4c94adcce48f3c207, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6210835945e1e2545a3e7891d6a5769b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c188a8a09b81b14b90372381459449d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d18a46ab7a176c448917a64dcaadb235, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a66e16dcaed1154195d0c69c0e2a18d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f30f53adc8e499e4e8d7e328a2dbb6e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7dd1005f2def3bb4f858acd20b6e691a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd63f2ff3773b314db8159a5f6e03f86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47d02cc7437675548ad25e38e4dda74b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1228bfe6be49620469008c9702ac0e7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67f3b831993e52045836962aba72b0b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: baaba298a4b5d7f48bdec7894e959a52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50504668fd71343478b77380da8646c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cea08b81ec07d204e96a7b2e1cea1261, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84c73e229951fa94b87f7fbb695a9438, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/ABRes/Prefabs/ABRes/Prefabs/UIPanel/V_PropertyView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_MapView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_MainSettingView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_ShopBuyTipView.prefab
+- Assets/ABRes/Prefabs/ABRes/Prefabs/UIPanel/V_MainView.prefab
+- Assets/ABRes/Prefabs/ABRes/Prefabs/UIPanel/V_ToolTipView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_MainView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_InventoryView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_ShopView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_PictureFrameView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_StartView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_CharacterView.prefab
+- Assets/ABRes/Prefabs/ABRes/Prefabs/UIPanel/V_InventoryView.prefab
+- Assets/ABRes/Prefabs/ABRes/Prefabs/UIPanel/V_DelItemTipView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_SellItemTipView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_RecruitingView.prefab
+- Assets/ABRes/Prefabs/ABRes/Prefabs/UIPanel/V_ThrowItemView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_BattleView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_ToolTipView.prefab
+- Assets/ABRes/Prefabs/UIPanel/V_BattleReadyView.prefab
+- Assets/ABRes/Prefabs/ABRes/Prefabs/UIPanel/V_StartView.prefab
+Dependencies:
+- D:/Program Files/Unity/Project/The Path Of The Brave/The Path Of The Brave/AssetBundles/StandaloneWindows/prefabs

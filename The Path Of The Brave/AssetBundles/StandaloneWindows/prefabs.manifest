@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 4047843801
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f640777accb887fecb063fdd219081ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 06dc3c7d8a0334c8c68cd0d052e811b8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e67b6ea4257ba194491ae49cfb9cab8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86b08cf4bc19cfe4d909b2a571259ba9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c45454598f951843882a7fd1569081a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05867a5f80bc8fb4db5a93c35778a4ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 861d007133129e548ba7eee9d144c3af, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/ABRes/Prefabs/LevelButtonView.prefab
+- Assets/ABRes/Prefabs/RocketMissileFire.prefab
+- Assets/ABRes/Prefabs/HpImageGreen.prefab
+- Assets/ABRes/Prefabs/CharacterPictureView.prefab
+- Assets/ABRes/Prefabs/HealingWindZone.prefab
+- Assets/ABRes/Prefabs/ShopBuyView.prefab
+- Assets/ABRes/Prefabs/ItemFillerView.prefab
+- Assets/ABRes/Prefabs/ABRes/Prefabs/ItemFillerView.prefab
+- Assets/ABRes/Prefabs/MagicCircleSimpleGreen.prefab
+- Assets/ABRes/Prefabs/MysticExplosionOrange.prefab
+- Assets/ABRes/Prefabs/HpImageRed.prefab
+- Assets/ABRes/Prefabs/HudText.prefab
+- Assets/ABRes/Prefabs/HudTextGreen.prefab
+- Assets/ABRes/Prefabs/HealBig.prefab
+Dependencies: []

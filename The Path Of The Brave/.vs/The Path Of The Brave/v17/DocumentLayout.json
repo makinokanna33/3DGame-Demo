@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|d:\\\u684C\u9762\\\u9879\u76EE\\unity\\path of brave\\the path of the brave\\assets\\scripts\\application\\mvc\\1_model\\modeldata\\savedataproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\mvc\\1_model\\modeldata\\savedataproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\mvc\\3_controller\\gamedata\\savedatacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\mvc\\3_controller\\gamedata\\savedatacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\main\\ai\\aibehaviortree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\main\\ai\\aibehaviortree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\main\\ai\\aibehaviornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\main\\ai\\aibehaviornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\main\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\main\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\mvc\\3_controller\\gamedata\\loaddatacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\mvc\\3_controller\\gamedata\\loaddatacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\mvc\\2_view\\mapviewmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\mvc\\2_view\\mapviewmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\mvc\\2_view\\mapview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\mvc\\2_view\\mapview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\mvc\\2_view\\sellitemtipviewmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\mvc\\2_view\\sellitemtipviewmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\mvc\\2_view\\sellitemtipview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\mvc\\2_view\\sellitemtipview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\mvc\\2_view\\startviewmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\mvc\\2_view\\startviewmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\mvc\\1_model\\modeldata\\characterdataproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\mvc\\1_model\\modeldata\\characterdataproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\mvc\\2_view\\startview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\mvc\\2_view\\startview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\mvc\\2_view\\mainsettingviewmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\mvc\\2_view\\mainsettingviewmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\assets\\scripts\\application\\mvc\\3_controller\\inventory\\updateinventorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7ABE9-DF2F-C28F-2259-088F1F080514}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\application\\mvc\\3_controller\\inventory\\updateinventorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\SaveData\\SaveData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SaveData\\SaveData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 259,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SaveData.json",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\SaveData\\SaveData.json",
+              "RelativeDocumentMoniker": "Assets\\SaveData\\SaveData.json",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\SaveData\\SaveData.json",
+              "RelativeToolTip": "Assets\\SaveData\\SaveData.json",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T02:00:54.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AIBehaviorTree.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\Main\\AI\\AIBehaviorTree.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\Main\\AI\\AIBehaviorTree.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\Main\\AI\\AIBehaviorTree.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\Main\\AI\\AIBehaviorTree.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAMwFAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:29:14.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AIBehaviorNode.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\Main\\AI\\AIBehaviorNode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\Main\\AI\\AIBehaviorNode.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\Main\\AI\\AIBehaviorNode.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\Main\\AI\\AIBehaviorNode.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAewH0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:29:06.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\Main\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\Main\\GameManager.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\Main\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\Main\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:50:18.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveDataProxy.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\1_Model\\ModelData\\SaveDataProxy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\MVC\\1_Model\\ModelData\\SaveDataProxy.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\1_Model\\ModelData\\SaveDataProxy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\MVC\\1_Model\\ModelData\\SaveDataProxy.cs",
+              "ViewState": "AQIAAJcBAAAAAAAAAAAMwKsBAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:16:24.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapViewMediator.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\MapViewMediator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\MVC\\2_View\\MapViewMediator.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\MapViewMediator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\MVC\\2_View\\MapViewMediator.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:33:11.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapView.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\MapView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\MVC\\2_View\\MapView.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\MapView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\MVC\\2_View\\MapView.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:33:07.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SellItemTipViewMediator.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\SellItemTipViewMediator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\MVC\\2_View\\SellItemTipViewMediator.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\SellItemTipViewMediator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\MVC\\2_View\\SellItemTipViewMediator.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:32:10.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SellItemTipView.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\SellItemTipView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\MVC\\2_View\\SellItemTipView.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\SellItemTipView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\MVC\\2_View\\SellItemTipView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:32:00.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CharacterDataProxy.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\1_Model\\ModelData\\CharacterDataProxy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\MVC\\1_Model\\ModelData\\CharacterDataProxy.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\1_Model\\ModelData\\CharacterDataProxy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\MVC\\1_Model\\ModelData\\CharacterDataProxy.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAjwGsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:20:40.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoadDataCommand.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\3_Controller\\GameData\\LoadDataCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\MVC\\3_Controller\\GameData\\LoadDataCommand.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\3_Controller\\GameData\\LoadDataCommand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\MVC\\3_Controller\\GameData\\LoadDataCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:17:19.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveDataCommand.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\3_Controller\\GameData\\SaveDataCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\MVC\\3_Controller\\GameData\\SaveDataCommand.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\3_Controller\\GameData\\SaveDataCommand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\MVC\\3_Controller\\GameData\\SaveDataCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:16:21.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartViewMediator.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\StartViewMediator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\MVC\\2_View\\StartViewMediator.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\StartViewMediator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\MVC\\2_View\\StartViewMediator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:14:41.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StartView.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\StartView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\MVC\\2_View\\StartView.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\StartView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\MVC\\2_View\\StartView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:14:37.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainSettingViewMediator.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\MainSettingViewMediator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\MVC\\2_View\\MainSettingViewMediator.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\2_View\\MainSettingViewMediator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\MVC\\2_View\\MainSettingViewMediator.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:09:36.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateInventoryCommand.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\3_Controller\\Inventory\\UpdateInventoryCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Application\\MVC\\3_Controller\\Inventory\\UpdateInventoryCommand.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\Path Of Brave\\The Path Of The Brave\\Assets\\Scripts\\Application\\MVC\\3_Controller\\Inventory\\UpdateInventoryCommand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Application\\MVC\\3_Controller\\Inventory\\UpdateInventoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:07:55.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
